@@ -255,6 +255,7 @@ docker network rm server
 # Eliminar volumen de base de datos
 
 ```bash
-docker volume rm mysql-data
+docker volume rm backend
 ```
+
 
